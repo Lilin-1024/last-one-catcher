@@ -1,0 +1,11 @@
+{
+    "webhook_url": "YOUR_WEBHOOK_HERE",
+    "cookie": "YOUR_BILIBILI_COOKIE_HERE",
+    "min_profit": 0,
+    "items": [
+        {
+            "url": "https://mall.bilibili.com/neul-next/index.html?itemsId=12345678",
+            "last_prize_value": 800
+        }
+    ]
+}
