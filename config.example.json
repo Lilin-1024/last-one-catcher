@@ -1,11 +1,12 @@
 {
-    "webhook_url": "YOUR_WEBHOOK_HERE",
-    "cookie": "YOUR_BILIBILI_COOKIE_HERE",
+    "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/你的ID",
+    "cookie": "B站Cookie",
     "min_profit": 0,
+    "min_prize_value_to_count": 100, 
     "items": [
         {
             "url": "https://mall.bilibili.com/neul-next/index.html?itemsId=12345678",
-            "last_prize_value": 800
+            "boxId": 0
         }
     ]
 }
